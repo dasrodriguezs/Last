@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 La
+=======
+Recipe 2
+>>>>>>> a0dcf45... Second R2 commit
